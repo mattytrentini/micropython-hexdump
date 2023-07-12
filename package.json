@@ -1,0 +1,6 @@
+{
+    "urls": [
+      ["hexdump.py", "github:mattytrentini/micropython-hexdump/hexdump.py"]
+    ],
+    "version": "1.0.0"
+  }
